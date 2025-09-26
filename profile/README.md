@@ -18,4 +18,4 @@ Whether you're hosting a small server for friends or managing a large public ser
 This GitHub organization is the hub for all projects and resources developed by Nether Host.
 
 Thank you for visiting Nether Host!
-https://nether.host
+https://netherhost.cc
